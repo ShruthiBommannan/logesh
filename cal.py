@@ -2,7 +2,7 @@ import calendar
 n=int(input())
 r=calendar.isleap(n)
 if(r):
-  print("Yes")
+  print("yes")
 else:
-  print("No")
+  print("no")
 

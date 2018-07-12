@@ -1,2 +1,2 @@
-n=int(input())
-print("Hello\n"*n)
+r=int(input())
+print("Hello\n"*r)

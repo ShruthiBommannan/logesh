@@ -1,3 +1,4 @@
-r=int(input())
-k=int(input())
-print(r**k)
+n,m=input().split()
+n=int(n)
+m=int(m)
+print(n**m)
